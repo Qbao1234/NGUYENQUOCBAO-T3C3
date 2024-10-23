@@ -7,14 +7,14 @@ ProductOwner , Developer
 Một sinh viên chuyên ngành Công nghệ phần mềm tại Đại học Ngoại ngữ Tin học. Tôi đam mê phát triển phần mềm và luôn tìm kiếm cơ hội để học hỏi và phát triển kỹ năng của mình.
 
 
-*   🖥️  See my portfolio at [Công ty cổ Phần MAYCHA](http://maycha.com.vn/)
-*   🧠  I'm learning Java, Python, C++, JavaScript
+*   🖥️  Công việc hiện tại [Công ty cổ Phần MAYCHA](http://maycha.com.vn/)
+*   🧠  Phát triển kỹ năng:  Java, Python, C++, JavaScript
 
-*  
+  
 
  
-*   ### Skills 
-<p align="left">
+<h2 align="center">🛠 Technologies  🛠</h2>
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
 </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -30,7 +30,7 @@ Một sinh viên chuyên ngành Công nghệ phần mềm tại Đại học Ngo
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                     </p>
 
-                     <br>
+                     
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -50,18 +50,23 @@ Một sinh viên chuyên ngành Công nghệ phần mềm tại Đại học Ngo
 </div>
 
 <br>
-      <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<h1> Make the impossible possible, with the power of software engineering 
+     
+<h1 align="center">📑 My Favorites Quote 📑</h1>
+
+
+
+<h2 align="center">Make the impossible possible, with the power of software engineering </h2>
+ <h4>
+  
   <br> 
   ⚡ Luôn luôn học hỏi, luôn luôn cải thiện, vì công nghệ phần mềm luôn thay đổi
   <br>
   🖥️ Phát triển kỹ năng lập trình và kiến thức chuyên môn để trở thành một lập trình viên giỏi 
   <br>
   🧠 Tham gia vào các dự án thú vị và mang tính thử thách. Kết nối và hợp tác với những người đam mê công nghệ phần mềm.
+ 
+ </h4>
   
-</h1>
                          
             
                   
