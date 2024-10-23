@@ -6,7 +6,7 @@ ProductOwner , Developer
 
 Một sinh viên chuyên ngành Công nghệ phần mềm tại Đại học Ngoại ngữ Tin học. Tôi đam mê phát triển phần mềm và luôn tìm kiếm cơ hội để học hỏi và phát triển kỹ năng của mình.
 
-*   🌍  I'm based in HO CHI MINH
+
 *   🖥️  See my portfolio at [Công ty cổ Phần MAYCHA](http://maycha.com.vn/)
 *   🧠  I'm learning Java, Python, C++, JavaScript
 
@@ -31,7 +31,7 @@ Một sinh viên chuyên ngành Công nghệ phần mềm tại Đại học Ngo
 
 <br>
 
-*   ⚡  Phát triển kỹ năng lập trình và kiến thức chuyên môn để trở thành một lập trình viên giỏi. Tham gia vào các dự án thú vị và mang tính thử thách. Kết nối và hợp tác với những người đam mê công nghệ phần mềm.
+ ⚡  Phát triển kỹ năng lập trình và kiến thức chuyên môn để trở thành một lập trình viên giỏi. Tham gia vào các dự án thú vị và mang tính thử thách. Kết nối và hợp tác với những người đam mê công nghệ phần mềm.
 *   ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -48,6 +48,13 @@ Một sinh viên chuyên ngành Công nghệ phần mềm tại Đại học Ngo
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                     </p>
+      <br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a > Make the impossible possible, with the power of software engineering 
+  <br> 
+  Luôn luôn học hỏi, luôn luôn cải thiện, vì công nghệ phần mềm luôn thay đổi
+</a>
                          
             
                   
